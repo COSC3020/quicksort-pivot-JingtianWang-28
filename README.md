@@ -54,5 +54,5 @@ all good pivot\
 median-of-three approach p is higher than leftmost with 11/16 vs 1/2\
 
 ###
-Source: ChatGPT help me with basec information, like how the Median-of-three and leftmost works, how a pivot select,why a good pivot is 1/2. i did the p calculate and permutations and combinationsall, prove and calculate part are my own work\
+Source: ChatGPT help me with basec information, like how the Median-of-three and leftmost works, how a pivot select,why a good pivot is 1/2. i did the p calculate and permutations and combinations, all prove and calculate part are my own work\
 Plagiarism Statement: “I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.”
